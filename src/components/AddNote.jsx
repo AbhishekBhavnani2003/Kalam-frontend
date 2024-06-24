@@ -102,7 +102,7 @@ export default function Example() {
 
       if (response.ok) {
         console.log("Post saved successfully");
-        navigate("/post"); // Or the correct path you want to navigate to
+        navigate("/bar"); 
       } else {
         console.error("Failed to save post:", response.statusText);
         const result = await response.json();
