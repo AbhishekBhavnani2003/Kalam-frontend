@@ -41,4 +41,3 @@ We value your feedback and invite you to share your thoughts in the comment sect
 - **Email**: [abhishekbhavnani2003@gmail.com](mailto:abhishekbhavnani2003@gmail.com)
 
 Join us on Kalam today and be part of a growing community of passionate writers and readers. Visit [kalamindia.netlify.app](https://kalamindia.netlify.app) to start your blogging journey. Thank you!
-```
